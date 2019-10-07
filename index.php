@@ -1,4 +1,5 @@
 <?php
+require_once("cache.php");
 error_reporting(0);
 include ('simplehtmldom/simple_html_dom.php');
 header("Content-type: text/plain");
