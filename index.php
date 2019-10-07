@@ -1,6 +1,6 @@
 <?php
 error_reporting(0);
-include('simple_html_dom.php');
+include('simplehtmldom/simple_html_dom.php');
 header("Content-type: text/plain");
 echo '<?xml version="1.0" encoding="UTF-8"?>' . PHP_EOL;
 echo '<tv>' . PHP_EOL;
