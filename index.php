@@ -41,20 +41,21 @@ foreach ($arr_days as $days) {
     $dates = $days->getAttribute('id');
     $arr_elements = $days->find('.wpsm-tbody tr');
     foreach ($arr_elements as $key => $element) {
+        $timezone  = 3600*(+8);
         if (strcmp($dates, 'day1_schedule') == 0) {
-            $date = date("Ymd", time());
+            $date = date("Ymd", time() + $timezone);
         } else if (strcmp($dates, 'day2_schedule') == 0) {
-            $date = date("Ymd", strtotime("+1 day"));
+            $date = date("Ymd", strtotime("+1 day") + $timezone);
         } else if (strcmp($dates, 'day3_schedule') == 0) {
-            $date = date("Ymd", strtotime("+2 day"));
+            $date = date("Ymd", strtotime("+2 day") + $timezone);
         } else if (strcmp($dates, 'day4_schedule') == 0) {
-            $date = date("Ymd", strtotime("+3 day"));
+            $date = date("Ymd", strtotime("+3 day") + $timezone);
         } else if (strcmp($dates, 'day5_schedule') == 0) {
-            $date = date("Ymd", strtotime("+4 day"));
+            $date = date("Ymd", strtotime("+4 day") + $timezone);
         } else if (strcmp($dates, 'day6_schedule') == 0) {
-            $date = date("Ymd", strtotime("+5 day"));
+            $date = date("Ymd", strtotime("+5 day") + $timezone);
         } else if (strcmp($dates, 'day7_schedule') == 0) {
-            $date = date("Ymd", strtotime("+6 day"));
+            $date = date("Ymd", strtotime("+6 day") + $timezone);
         };
         $name = $element->find('td', 1)->plaintext;
         $epNum = $element->find('td', 2)->plaintext;
