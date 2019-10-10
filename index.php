@@ -25,7 +25,11 @@ foreach ($arr as $key => $element) {
         $synopsis = $element->find('.synopsis', 0)->plaintext;
         echo '<programme start="' . $dateStart . $clockStart . ' +0800" stop="' . $dateStop . $clockStop . ' +0800" channel="Animax">' . PHP_EOL;
         echo '<title lang="id">' . trim($name) . '</title>' . PHP_EOL;
-        echo '<episode-num system="xmltv_ns">' . ($epnumArr[0][0] - 1) . '.' . ($epnumArr[0][1] - 1) . '</episode-num>' . PHP_EOL;
+        if (isset($epnumArr[0][1])) {
+            echo '<episode-num system="xmltv_ns">' . ($epnumArr[0][0] - 1) . '.' . ($epnumArr[0][1] - 1) . '</episode-num>' . PHP_EOL;
+        }else{
+            echo '<episode-num system="xmltv_ns">0.' . ($epnumArr[0][0] - 1) . '</episode-num>' . PHP_EOL;
+        };
         echo '<desc lang="id">' . $meta . ' | ' . trim($synopsis) . '</desc>' . PHP_EOL;
         echo '</programme>' . PHP_EOL;
     };
@@ -95,7 +99,11 @@ foreach ($arr as $key => $element) {
         $synopsis = $element->find('.synopsis', 0)->plaintext;
         echo '<programme start="' . $dateStart . $clockStart . ' +0700" stop="' . $dateStop . $clockStop . ' +0700" channel="GEM TV Asia">' . PHP_EOL;
         echo '<title lang="id">' . trim($name) . '</title>' . PHP_EOL;
-        echo '<episode-num system="xmltv_ns">' . ($epnumArr[0][0] - 1) . '.' . ($epnumArr[0][1] - 1) . '</episode-num>' . PHP_EOL;
+        if (isset($epnumArr[0][1])) {
+            echo '<episode-num system="xmltv_ns">' . ($epnumArr[0][0] - 1) . '.' . ($epnumArr[0][1] - 1) . '</episode-num>' . PHP_EOL;
+        }else{
+            echo '<episode-num system="xmltv_ns">0.' . ($epnumArr[0][0] - 1) . '</episode-num>' . PHP_EOL;
+        };
         echo '<desc lang="id">' . $meta . ' | ' . trim($synopsis) . '</desc>' . PHP_EOL;
         echo '</programme>' . PHP_EOL;
     };
