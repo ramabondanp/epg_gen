@@ -1,6 +1,6 @@
 <?php
-echo '<channel id="Animax">' . PHP_EOL;
-echo '<display-name lang="id">Animax</display-name>' . PHP_EOL;
+echo '<channel id="animax">' . PHP_EOL;
+echo '<display-name>Animax</display-name>' . PHP_EOL;
 echo '<icon src="https://www.animax-asia.com/sites/asia.animax/files/animax_logo_endorsed_0.png" />' . PHP_EOL;
 echo '<url>http://www.animax-asia.com</url>' . PHP_EOL;
 echo '</channel>' . PHP_EOL;
@@ -18,14 +18,14 @@ foreach ($arr as $key => $element) {
         $meta = $element->find('.meta', 0)->plaintext;
         $epnum = preg_match_all("/\d+/", $meta, $epnumArr);
         $synopsis = $element->find('.synopsis', 0)->plaintext;
-        echo '<programme start="' . $dateStart . $clockStart . ' +0800" stop="' . $dateStop . $clockStop . ' +0800" channel="Animax">' . PHP_EOL;
-        echo '<title lang="id">' . trim($name) . '</title>' . PHP_EOL;
+        echo '<programme start="' . $dateStart . $clockStart . ' +0800" stop="' . $dateStop . $clockStop . ' +0800" channel="animax">' . PHP_EOL;
+        echo '<title>' . trim($name) . '</title>' . PHP_EOL;
         if (isset($epnumArr[0][1])) {
             echo '<episode-num system="xmltv_ns">' . ($epnumArr[0][0] - 1) . '.' . ($epnumArr[0][1] - 1) . '</episode-num>' . PHP_EOL;
         }else{
             echo '<episode-num system="xmltv_ns">0.' . ($epnumArr[0][0] - 1) . '</episode-num>' . PHP_EOL;
         };
-        echo '<desc lang="id">' . $meta . ' | ' . trim($synopsis) . '</desc>' . PHP_EOL;
+        echo '<desc>' . $meta . ' | ' . trim($synopsis) . '</desc>' . PHP_EOL;
         echo '</programme>' . PHP_EOL;
     };
 };
