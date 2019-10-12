@@ -1,0 +1,3 @@
+[submodule "simplehtmldom"]
+	path = simplehtmldom
+	url = https://github.com/simplehtmldom/simplehtmldom.git
