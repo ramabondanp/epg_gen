@@ -4,7 +4,7 @@ error_reporting(0);
 
 // cache page
 $cachefile = $_SERVER['DOCUMENT_ROOT'] . '/epg.xml';
-$cachetime = 18000;
+$cachetime = 54000; //15 Hours
 if (file_exists($cachefile) && time() - $cachetime < filemtime($cachefile)) {
     header("Content-type: text/plain");
     readfile($cachefile);
