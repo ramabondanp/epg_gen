@@ -27,6 +27,7 @@ foreach ($arr_days as $days) {
             $date = date("Ymd", strtotime("+6 day") + $timezone);
         };
         $name = $element->find('td', 1)->plaintext;
+        $name = htmlspecialchars($name);
         $epNum = $element->find('td', 2)->plaintext;
         $meta = $element->find('td', 3)->plaintext;
         $genre = 'Genre: ' . $element->find('td', 4)->plaintext;

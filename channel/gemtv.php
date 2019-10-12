@@ -10,6 +10,7 @@ foreach ($arr as $key => $element) {
     $next = $arr[$key + 1];
     if (!empty($next)) {
         $name = $element->find('.content .title', 0)->plaintext;
+        $name = htmlspecialchars($name);
         $dateStart = date("Ymd", strtotime($element->find('.time-date', 0)->plaintext));
         $dateStop = date("Ymd", strtotime($next->find('.time-date', 0)->plaintext));
         $clockStart = date("His", strtotime($element->find('.date', 0)->plaintext));

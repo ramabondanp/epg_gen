@@ -8,6 +8,7 @@ $json = file_get_contents('https://www.wakuwakujapan.com/json/tz0700/');
 $content = json_decode($json, true);
 foreach ($content as $key => $value) {
         $name = $value["title_en"];
+        $name = htmlspecialchars($name);
         $dateStart = $value["start"];
         $dateStop = $value["end"];
         $epnum = $value["ep"];
