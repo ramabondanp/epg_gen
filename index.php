@@ -28,5 +28,6 @@ echo '<tv>' . PHP_EOL;
 include 'channel/animax.php';
 include 'channel/aniplus.php';
 include 'channel/gemtv.php';
+include 'channel/wakuwakujapan.php';
 echo '</tv>';
 ?>
