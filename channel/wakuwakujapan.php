@@ -12,11 +12,11 @@ foreach ($content as $key => $value) {
         $dateStart = $value["start"];
         $dateStop = $value["end"];
         $epnum = $value["ep"];
-        $genre = 'Genre: ' . $value["genre"];
+        $genre = $value["genre"];
         echo '<programme start="' . $dateStart . '00 +0700" stop="' . $dateStop . '00 +0700" channel="Waku Waku Japan">' . PHP_EOL;
         echo '<title lang="id">' . $name . '</title>' . PHP_EOL;
-        echo '<episode-num system="xmltv_ns">0.' . $epnum . '</episode-num>' . PHP_EOL;
-        echo '<desc lang="id">Episode ' . ($epnum + 1) . ' | ' . $genre . '</desc>' . PHP_EOL;
+        echo '<episode-num system="xmltv_ns">0.' . (($epnum != '0') ? ($epnum-1) : '0') . '</episode-num>' . PHP_EOL;
+        echo '<desc lang="id">Episode ' . (($epnum != '0') ? $epnum : 'Unknown') . ' | Genre: ' . (($genre != '') ? $genre : 'Unknown') . '</desc>' . PHP_EOL;
         echo '</programme>' . PHP_EOL;
 };
 ?>
