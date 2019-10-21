@@ -13,8 +13,53 @@ http://210.210.155.35/dr9445/h/h02/02.m3u8
 http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:0 tvg-name="ID: Gem TV Asia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-id="gemtvasia" group-title="Selected" tvg-shift="+0",ID: Gem TV Asia SD
 http://210.210.155.35/uq2663/h/h19/02.m3u8
-#EXTINF:0 tvg-name="ID: Waku Waku Japan HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="wakuwakujapan" group-title="Selected" tvg-shift="+0",ID: Waku Waku Japan (Premium)
+#EXTINF:0 tvg-name="ID: Waku Waku Japan HD (Premium Trial)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="wakuwakujapan" group-title="Selected" tvg-shift="+0",ID: Waku Waku Japan (Premium Trial)
 http://tvku.live:8888/tosca/tosca/717
+
+########################################## TRIAL ######################################################
+#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: AXN HD
+http://tvku.live:8888/tosca/tosca/9
+#EXTINF:0 tvg-name="ID: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: CARTOON NETWORK
+http://tvku.live:8888/tosca/tosca/680
+#EXTINF:0 tvg-name="ID: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: FOX
+http://tvku.live:8888/tosca/tosca/95
+#EXTINF:0 tvg-name="ID: Fox Action Movies" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: Fox Action Movie
+http://tvku.live:8888/tosca/tosca/99
+#EXTINF:0 tvg-name="ID: FOX Movies" tvg-logo="https://cdn.imgbin.com/5/14/4/imgbin-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-7P0BU8dU7FP0zpANeJVDSNLV4.jpg" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: FOX Movies
+http://tvku.live:8888/tosca/tosca/98
+#EXTINF:0 tvg-name="ID: Fox Crime" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png/revision/latest?cb=20190424011633" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: Fox Crime
+http://tvku.live:8888/tosca/tosca/763
+#EXTINF:0 tvg-name="ID: Fox Life" tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2019/02/FOX-LIFE-TURKEY-HD.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: Fox Life
+http://tvku.live:8888/tosca/tosca/94
+#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies" tvg-logo="" group-title="Entertainment (Premium Trial)",ID: FOX Family Movies
+http://tvku.live:8888/tosca/tosca/100
+#EXTINF:0 tvg-name="ID: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: FX
+http://tvku.live:8888/tosca/tosca/776
+#EXTINF:0 tvg-name="ID: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: HBO
+http://tvku.live:8888/tosca/tosca/210
+#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits" tvg-logo="" group-title="Entertainment (Premium Trial)",ID: HBO Hits
+http://tvku.live:8888/tosca/tosca/591
+#EXTINF:0 tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: HBO Family
+http://tvku.live:8888/tosca/tosca/592
+#EXTINF:0 tvg-name="ID: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: HBO SIGNATURE
+http://tvku.live:8888/tosca/tosca/873
+#EXTINF:-1 tvg-ID="" tvg-name="Red by HBO" tvg-logo="" group-title="Entertainment (Premium Trial)",ID: Red by HBO
+http://tvku.live:8888/tosca/tosca/874
+#EXTINF:0 tvg-name="ID: Nick Asia" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" tvg-id="" group-title="Entertainment (Premium Trial)" tvg-shift="+0",ID: Nick Asia
+http://tvku.live:8888/tosca/tosca/962
+
+#EXTINF:0 tvg-name="ID: ANIMAL PLANET" tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" tvg-id="" group-title="KNOWLEDGE (Premium Trial)" tvg-shift="+0",ID: ANIMAL PLANET
+http://tvku.live:8888/tosca/tosca/358
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE (Premium Trial)",ID: Discovery Channel
+http://tvku.live:8888/tosca/tosca/165
+#EXTINF:0 tvg-name="ID: History Asia" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="" group-title="KNOWLEDGE (Premium Trial)" tvg-shift="+0",ID: History Asia
+http://tvku.live:8888/tosca/tosca/718
+#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="KNOWLEDGE (Premium Trial)" tvg-shift="+0",ID: National Geographic
+http://tvku.live:8888/tosca/tosca/1504
+#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="KNOWLEDGE (Premium Trial)" tvg-shift="+0",ID: National Geographic People
+http://tvku.live:8888/tosca/tosca/455
+#EXTINF:0 tvg-name="ID: National Geographic Wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" tvg-id="" group-title="KNOWLEDGE (Premium Trial)" tvg-shift="+0",ID: National Geographic Wild
+http://tvku.live:8888/tosca/tosca/97
 
 ########################################## Entertainment ######################################################
 #EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: AXN HD
@@ -60,37 +105,6 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF:0 tvg-name="ID: Zee Bioskop SD" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Zee Bioskop SD
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 
-#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: AXN HD
-http://tvku.live:8888/tosca/tosca/9
-#EXTINF:0 tvg-name="ID: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: CARTOON NETWORK
-http://tvku.live:8888/tosca/tosca/680
-#EXTINF:0 tvg-name="ID: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: FOX
-http://tvku.live:8888/tosca/tosca/95
-#EXTINF:0 tvg-name="ID: Fox Action Movies" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: Fox Action Movie
-http://tvku.live:8888/tosca/tosca/99
-#EXTINF:0 tvg-name="ID: FOX Movies" tvg-logo="https://cdn.imgbin.com/5/14/4/imgbin-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-7P0BU8dU7FP0zpANeJVDSNLV4.jpg" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: FOX Movies
-http://tvku.live:8888/tosca/tosca/98
-#EXTINF:0 tvg-name="ID: Fox Crime" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png/revision/latest?cb=20190424011633" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: Fox Crime
-http://tvku.live:8888/tosca/tosca/763
-#EXTINF:0 tvg-name="ID: Fox Life" tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2019/02/FOX-LIFE-TURKEY-HD.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: Fox Life
-http://tvku.live:8888/tosca/tosca/94
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies" tvg-logo="" group-title="Entertainment (Premium)",ID: FOX Family Movies
-http://tvku.live:8888/tosca/tosca/100
-#EXTINF:0 tvg-name="ID: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: FX
-http://tvku.live:8888/tosca/tosca/776
-#EXTINF:0 tvg-name="ID: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: HBO
-http://tvku.live:8888/tosca/tosca/210
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits" tvg-logo="" group-title="Entertainment (Premium)",ID: HBO Hits
-http://tvku.live:8888/tosca/tosca/591
-#EXTINF:0 tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: HBO Family
-http://tvku.live:8888/tosca/tosca/592
-#EXTINF:0 tvg-name="ID: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: HBO SIGNATURE
-http://tvku.live:8888/tosca/tosca/873
-#EXTINF:-1 tvg-ID="" tvg-name="Red by HBO" tvg-logo="" group-title="Entertainment (Premium)",ID: Red by HBO
-http://tvku.live:8888/tosca/tosca/874
-#EXTINF:0 tvg-name="ID: Nick Asia" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" tvg-id="" group-title="Entertainment (Premium)" tvg-shift="+0",ID: Nick Asia
-http://tvku.live:8888/tosca/tosca/962
-
 ############################### KNOWLEDGE #################################
 #EXTINF:0 tvg-name="ID: ANIMAL PLANET" tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: ANIMAL PLANET
 http://203.207.56.228/live/iptv019.m3u8
@@ -108,19 +122,6 @@ http://bit.ly/rm_natwild
 http://210.210.155.35/uq2663/h/h23/01.m3u8
 #EXTINF:0 tvg-name="NHK World SD" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",NHK World SD
 http://210.210.155.35/uq2663/h/h23/02.m3u8
-
-#EXTINF:0 tvg-name="ID: ANIMAL PLANET" tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" tvg-id="" group-title="KNOWLEDGE (Premium)" tvg-shift="+0",ID: ANIMAL PLANET
-http://tvku.live:8888/tosca/tosca/358
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE (Premium)",ID: Discovery Channel
-http://tvku.live:8888/tosca/tosca/165
-#EXTINF:0 tvg-name="ID: History Asia" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="" group-title="KNOWLEDGE (Premium)" tvg-shift="+0",ID: History Asia
-http://tvku.live:8888/tosca/tosca/718
-#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="KNOWLEDGE (Premium)" tvg-shift="+0",ID: National Geographic
-http://tvku.live:8888/tosca/tosca/1504
-#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="KNOWLEDGE (Premium)" tvg-shift="+0",ID: National Geographic People
-http://tvku.live:8888/tosca/tosca/455
-#EXTINF:0 tvg-name="ID: National Geographic Wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" tvg-id="" group-title="KNOWLEDGE (Premium)" tvg-shift="+0",ID: National Geographic Wild
-http://tvku.live:8888/tosca/tosca/97
 
 ################################## KOREA #########################################
 #EXTINF:0 tvg-name="ID: K+ HD" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: K+ HD
