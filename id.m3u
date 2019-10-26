@@ -77,6 +77,8 @@ http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 http://203.207.56.228/live/iptv019.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE",ID: Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
+#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: National Geographic People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 #EXTINF:0 tvg-name="NHK World HD" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",NHK World HD
