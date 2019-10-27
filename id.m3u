@@ -1,204 +1,181 @@
-#EXTM3U url-tvg="http://genom-project.000webhostapp.com/epg.xml" x-tvg-url="http://genom-project.000webhostapp.com/epg.xml"
-
-########################################## SELECTED ######################################################
-#EXTINF:0 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="Selected" tvg-shift="+0",ID: Animax HD
+﻿#EXTM3U x-tvg-url="http://genom-project.000webhostapp.com/epg.xml"
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="PT. Cyberindo Aditama",ID: Animax HD
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:0 tvg-name="ID: Animax SD" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" tvg-id="animax" group-title="Selected" tvg-shift="+0",ID: Animax SD
+#EXTINF:-1 tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="PT. Cyberindo Aditama",ID: Animax SD
 http://210.210.155.35/dr9445/h/h144/02.m3u8
-#EXTINF:0 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="Selected" tvg-shift="+0",ID: Aniplus HD
+#EXTINF:-1 tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="PT. Cyberindo Aditama",ID: Aniplus HD
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:0 tvg-name="ID: Aniplus SD" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" tvg-id="aniplus" group-title="Selected" tvg-shift="+0",ID: Aniplus SD
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="PT. Cyberindo Aditama",ID: Aniplus SD
 http://210.210.155.35/dr9445/h/h02/02.m3u8
-#EXTINF:0 tvg-name="ID: Gem TV Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-id="gemtvasia" group-title="Selected" tvg-shift="+0",ID: Gem TV Asia HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="PT. Cyberindo Aditama",ID: Gem TV Asia HD
 http://210.210.155.35/uq2663/h/h19/01.m3u8
-#EXTINF:0 tvg-name="ID: Gem TV Asia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-id="gemtvasia" group-title="Selected" tvg-shift="+0",ID: Gem TV Asia SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" group-title="PT. Cyberindo Aditama",ID: Gem TV Asia SD
 http://210.210.155.35/uq2663/h/h19/02.m3u8
-
-########################################## USEE ######################################################
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/aniplus.png" group-title="Usee Premium",ID: Aniplus
-https://cdnmdc2.useetv.com/joss/14/aniplus/chunklist_w1537538391_b684100_sleng.m3u8?enc=WH7yni3nYLi8ryHhcO43xQ&exp=1572177610
-
-#EXTINF:0 tvg-name="ID: Waku Waku Japan HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="wakuwakujapan" group-title="Usee Premium" tvg-shift="+0",ID: Waku Waku Japan
-https://cdnmdc1.useetv.com/joss/17/wakuwaku/chunklist_w441183075_b1344100_sleng.m3u8?enc=FXSMua70Wa2av8PG4UZwbA&exp=1572177906
-
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/flik.png" group-title="Usee Premium",ID: Flik
-https://edgejt7.useetv.com/joss/15/flik/chunklist_w2133237528_b1344100_sleng.m3u8?enc=y-CSRNmSwg2QvHSgAo2d0Q&exp=1572177011
-
-#EXTINF:-1 tvg-logo="https://indiku.me/logo/sbsin.png" group-title="Usee Premium",ID: SBS-in
-https://cdnbal1.useetv.com/joss/17/sbsin/chunklist_w1169566762_b1344100_sleng.m3u8?enc=ljaO-fK8Oo13YEaPxcUqQA&exp=1572177317
-
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="Usee Premium",ID: Discovery Channel
-https://cdnbdsa1.useetv.com/joss/17/disco/chunklist_w1123783221_b1344100_sleng.m3u8?enc=2zDo0mbaaWZrBrj6Va3BdQ&exp=1572178204
-#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic
-https://cdnmdc1.useetv.com/joss/17/natgeo/chunklist_w1189444151_b1344100_sleng.m3u8?enc=YMrOsLi-bUtRjY1CwZeFbA&exp=1572178202
-#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic People
-https://edgejt6.useetv.com/joss/17/natgeopeople/chunklist_w539268743_b1344100_sleng.m3u8?enc=SMIl0KGQuKaz3X6YPBJcVg&exp=1572178203
-#EXTINF:0 tvg-name="ID: National Geographic Wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic Wild
-https://cdnkbl2.useetv.com/joss/17/natgeowild/chunklist_w78553196_b1344100_sleng.m3u8?enc=alB_XxIvam3kecsJxyLIzA&exp=1572178204
-
-########################################## Entertainment ######################################################
-#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: AXN HD
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="PT. Cyberindo Aditama",ID: AXN HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: AXN SD
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="PT. Cyberindo Aditama",ID: AXN SD
 http://210.210.155.35/uq2663/h/h141/02.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Blue Ant Entertainment" group-title="Entertainment",ID: Blue Ant Entertainment
-http://45.126.83.51:80/dr9445/h/h16/index2.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" tvg-name="Blue Ant Extreme" group-title="Entertainment",ID: Blue Ant Extreme
-http://45.126.83.51:80/dr9445/h/h15/01.m3u8
-#EXTINF:0 tvg-name="ID: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: CARTOON NETWORK
-http://203.207.56.228/live/iptv027.m3u8
-#EXTINF:0 tvg-name="ID: CELESTIAL MOVIES HD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: CELESTIAL MOVIES HD
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="PT. Cyberindo Aditama",ID: CELESTIAL MOVIES HD
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF:0 tvg-name="ID: CELESTIAL MOVIES SD" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: CELESTIAL MOVIES SD
+#EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="PT. Cyberindo Aditama",ID: CELESTIAL MOVIES SD
 http://210.210.155.35/qwr9ew/s/s33/02.m3u8
-#EXTINF:0 tvg-name="ID: CinemaWorld HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: CinemaWorld HD
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="PT. Cyberindo Aditama",ID: CinemaWorld HD
 http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:0 tvg-name="ID: CinemaWorld SD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: CinemaWorld SD
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="PT. Cyberindo Aditama",ID: CinemaWorld SD
 http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF:-1 tvg-logo="Logo N/A" tvg-name="Cinemax ID HD" group-title="Entertainment",ID: Cinemax ID HD
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:- tvg-logo="Logo N/A" tvg-name="Diva HD"  group-title="Entertainment",ID: Diva HD
-http://210.210.155.35:80/uq2663/h/h11/index.m3u8
-#EXTINF:0 tvg-name="ID: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:0 tvg-name="ID: Fox Action Movies" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Fox Action Movie
-http://203.207.56.228/live/iptv029.m3u8
-#EXTINF:0 tvg-name="ID: FOX Movies" tvg-logo="https://cdn.imgbin.com/5/14/4/imgbin-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-7P0BU8dU7FP0zpANeJVDSNLV4.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: FOX Movies
-http://203.207.56.228/live/iptv034.m3u8
-#EXTINF:0 tvg-name="ID: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: HBO
-http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits" tvg-logo="" group-title="Entertainment",ID: HBO Hits
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
-#EXTINF:0 tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: HBO Family
-http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:0 tvg-name="ID: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: HBO SIGNATURE
-http://203.207.56.228/live/iptv006.m3u8
-#EXTINF:0 tvg-name="ID: KiX HD" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: KiX HD
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Diva HD
+http://210.210.155.35/uq2663/h/h11/01.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Diva SD
+http://210.210.155.35/uq2663/h/h11/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="PT. Cyberindo Aditama",ID: KiX HD
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF:0 tvg-name="ID: KiX SD" tvg-logo="https://i.imgur.com/KMPI8qI.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: KiX SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="PT. Cyberindo Aditama",ID: KiX SD
 http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gsBmKtz.png" group-title="Entertainment", ID: MY KIDS
-http://210.210.155.35:80/x6bnqe/s/s113/index.m3u8
-#EXTINF:0 tvg-name="ID: Nick Asia" tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Nick Asia
-http://203.207.56.228/live/iptv014.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMeg2oO.png" group-title="Entertainment", ID: NICK JUNIOR
-http://203.207.56.228/live/iptv018.m3u8
-#EXTINF:0 tvg-name="ID: Ray Movie" tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0 tvg-name="ID: Thrill HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Thrill HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gsBmKtz.png" group-title="PT. Cyberindo Aditama",ID: MY KIDS
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="PT. Cyberindo Aditama",ID: Thrill HD
 http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-#EXTINF:0 tvg-name="ID: Thrill SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Thrill SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="PT. Cyberindo Aditama",ID: Thrill SD
 http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF:0 tvg-name="ID: Zee Bioskop HD" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Zee Bioskop HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="PT. Cyberindo Aditama",ID: Zee Bioskop HD
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF:0 tvg-name="ID: Zee Bioskop SD" tvg-logo="https://i.imgur.com/CdXieB6.png" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: Zee Bioskop SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="PT. Cyberindo Aditama",ID: Zee Bioskop SD
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
-
-############################### KNOWLEDGE #################################
-#EXTINF:0 tvg-name="ID: ANIMAL PLANET" tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: ANIMAL PLANET
-http://203.207.56.228/live/iptv019.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="KNOWLEDGE",ID: Discovery Channel
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
-#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: National Geographic
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",ID: National Geographic People
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
-#EXTINF:0 tvg-name="NHK World HD" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",NHK World HD
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Blue Ant Entertainment HD
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Blue Ant Entertainment SD
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Blue Ant Extreme HD
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT. Cyberindo Aditama",ID: Blue Ant Extreme SD
+http://210.210.155.35/dr9445/h/h15/02.m3u8
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="PT. Cyberindo Aditama",NHK World HD
 http://210.210.155.35/uq2663/h/h23/01.m3u8
-#EXTINF:0 tvg-name="NHK World SD" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" tvg-id="" group-title="KNOWLEDGE" tvg-shift="+0",NHK World SD
+#EXTINF:-1 tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="PT. Cyberindo Aditama",NHK World SD
 http://210.210.155.35/uq2663/h/h23/02.m3u8
-
-################################## KOREA #########################################
-#EXTINF:0 tvg-name="ID: K+ HD" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: K+ HD
+#EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="PT. Cyberindo Aditama",ID: K+ HD
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF:0 tvg-name="ID: K+ SD" tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: K+ SD
+#EXTINF:-1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="PT. Cyberindo Aditama",ID: K+ SD
 http://210.210.155.35/uq2663/h/h08/02.m3u8
-#EXTINF:0 tvg-name="ID: K-Drama HD" tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: K-Drama HD
+#EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="PT. Cyberindo Aditama",ID: K-Drama HD
 http://210.210.155.35/qwr9ew/s/s42/01.m3u8
-#EXTINF:0 tvg-name="ID: K-Drama SD" tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: K-Drama SD
+#EXTINF:-1 tvg-logo="https://dzapk.com/images/2018/03/01/5788/kdrama-watch-korean-drama-adfree-v1-5-apk_1.jpg" group-title="PT. Cyberindo Aditama",ID: K-Drama SD
 http://210.210.155.35/qwr9ew/s/s42/02.m3u8
-#EXTINF:0 tvg-name="ID: Sony One HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: Sony One HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="PT. Cyberindo Aditama",ID: Sony One HD
 http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF:0 tvg-name="ID: Sony One SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" tvg-id="" group-title="KOREA" tvg-shift="+0",ID: Sony One SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/ONE_TV_ASIA_%28logo%29.jpg/200px-ONE_TV_ASIA_%28logo%29.jpg" group-title="PT. Cyberindo Aditama",ID: Sony One SD
 http://210.210.155.35/uq2663/h/h143/02.m3u8
-
-########################################## LOKAL ######################################################
-#EXTINF:0 tvg-name="ANTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",ANTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="PT. Cyberindo Aditama",ANTV HD
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
-#EXTINF:0 tvg-name="ANTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",ANTV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="PT. Cyberindo Aditama",ANTV SD
 http://210.210.155.35/qwr9ew/s/s102/02.m3u8
-#EXTINF:0 tvg-name="Bali TV" tvg-logo="http://images.useetv.com/logo_balitv_big1.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",Bali TV
-http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-name="CNBC Indonesia" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo_hitam.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
-#EXTINF:0 tvg-name="CNN Indonesia HD" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=8.7.5" tvg-id="" group-title="LOKAL" tvg-shift="+0",CNN Indonesia HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-#EXTINF:0 tvg-name="CNN Indonesia SD" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=8.7.5" tvg-id="" group-title="LOKAL" tvg-shift="+0",CNN Indonesia SD
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:0 tvg-name="Elshinta HD" tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",Elshinta HD
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" group-title="PT. Cyberindo Aditama",Elshinta HD
 http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-#EXTINF:0 tvg-name="Elshinta SD" tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",Elshinta SD
+#EXTINF:-1 tvg-logo="http://www.geocities.ws/andriant/foto/shintia.jpg" group-title="PT. Cyberindo Aditama",Elshinta SD
 http://210.210.155.35/qwr9ew/s/s10/02.m3u8
-#EXTINF:0 tvg-name="GLOBAL TV HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",GLOBAL TV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-#EXTINF:0 tvg-name="GLOBAL TV SD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",GLOBAL TV SD
-https://cdn-rctiplus.metube.id/hls/globaltvplus_480/index.m3u8
-#EXTINF:0 tvg-name="Indosiar HD" tvg-logo="https://i.imgur.com/IuIBfqD.jpg?1" tvg-id="" group-title="LOKAL" tvg-shift="+0",Indosiar HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IuIBfqD.jpg?1" group-title="PT. Cyberindo Aditama",Indosiar HD
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
-#EXTINF:0 tvg-name="Indosiar SD" tvg-logo="https://i.imgur.com/IuIBfqD.jpg?1" tvg-id="" group-title="LOKAL" tvg-shift="+0",Indosiar SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IuIBfqD.jpg?1" group-title="PT. Cyberindo Aditama",Indosiar SD
 http://210.210.155.35/qwr9ew/s/s04/02.m3u8
-#EXTINF:0 tvg-name="iNews HD" tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",iNews HD
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-#EXTINF:0 tvg-name="iNews SD" tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",iNews SD
-https://cdn-rctiplus.metube.id/hls/inewstvplus_480/index.m3u8
-#EXTINF:0 tvg-name="JTV SURABAYA" tvg-logo="https://vignette.wikia.nocookie.net/tolololpedia/images/f/f7/Jtv.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",JTV SURABAYA
-http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-name="METRO TV HD" tvg-logo="http://3.bp.blogspot.com/-gq8DYavIEjo/UTmyEcnfR5I/AAAAAAAABUU/q-5Bk-cwZl8/s1600/metro+tv+Logo+Vector+Stasiun+Televisi.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",METRO TV HD
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gq8DYavIEjo/UTmyEcnfR5I/AAAAAAAABUU/q-5Bk-cwZl8/s1600/metro+tv+Logo+Vector+Stasiun+Televisi.jpg" group-title="PT. Cyberindo Aditama",METRO TV HD
 http://210.210.155.35/uq2663/h/h12/01.m3u8
-#EXTINF:0 tvg-name="METRO TV SD" tvg-logo="http://3.bp.blogspot.com/-gq8DYavIEjo/UTmyEcnfR5I/AAAAAAAABUU/q-5Bk-cwZl8/s1600/metro+tv+Logo+Vector+Stasiun+Televisi.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",METRO TV SD
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-gq8DYavIEjo/UTmyEcnfR5I/AAAAAAAABUU/q-5Bk-cwZl8/s1600/metro+tv+Logo+Vector+Stasiun+Televisi.jpg" group-title="PT. Cyberindo Aditama",METRO TV SD
 http://210.210.155.35/uq2663/h/h12/02.m3u8
-#EXTINF:0 tvg-name="MNCTV HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",MNCTV HD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:0 tvg-name="MNCTV SD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",MNCTV SD
-https://cdn-rctiplus.metube.id/hls/mnctvplus_480/index.m3u8
-#EXTINF:0 tvg-name="MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/23/Mayapada_TV.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",MYTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
-#EXTINF:0 tvg-name="NET TV HD" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/logo-net-tv.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",NET TV HD
+#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/logo-net-tv.jpg" group-title="PT. Cyberindo Aditama",NET TV HD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:0 tvg-name="NET TV SD" tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/logo-net-tv.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",NET TV SD
+#EXTINF:-1 tvg-logo="https://cdn2.tstatic.net/tribunnews/foto/bank/images/logo-net-tv.jpg" group-title="PT. Cyberindo Aditama",NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/02.m3u8
-#EXTINF:0 tvg-name="RCTI HD" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",RCTI HD
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:0 tvg-name="RCTI SD" tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",RCTI SD
-https://cdn-rctiplus.metube.id/hls/eplrctiplus_480/index.m3u8
-#EXTINF:0 tvg-name="RTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",RTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="PT. Cyberindo Aditama",RTV HD
 http://210.210.155.35/qwr9ew/s/s12/01.m3u8
-#EXTINF:0 tvg-name="RTV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",RTV SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5a/Rajawali_Televisi.svg/1280px-Rajawali_Televisi.svg.png" group-title="PT. Cyberindo Aditama",RTV SD
 http://210.210.155.35/qwr9ew/s/s12/02.m3u8
-#EXTINF:0 tvg-name="SCTV HD" tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",SCTV HD
+#EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="PT. Cyberindo Aditama",SCTV HD
 http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-#EXTINF:0 tvg-name="SCTV SD" tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",SCTV SD
+#EXTINF:-1 tvg-logo="https://www.pinterpandai.com/wp-content/uploads/2015/06/Logo-Stasiun-TV-SCTV.jpg" group-title="PT. Cyberindo Aditama",SCTV SD
 http://210.210.155.35/qwr9ew/s/s103/02.m3u8
-#EXTINF:0 tvg-name="THE INDONESIA CHANNEL" tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",THE INDONESIA CHANNEL
-http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:0 tvg-name="TRANS 7 HD" tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TRANS 7 HD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="PT. Cyberindo Aditama",TRANS 7 HD
 http://210.210.155.35/qwr9ew/s/s101/01.m3u8
-#EXTINF:0 tvg-name="TRANS 7 SD" tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TRANS 7 SD
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="PT. Cyberindo Aditama",TRANS 7 SD
 http://210.210.155.35/qwr9ew/s/s101/02.m3u8
-#EXTINF:0 tvg-name="TRANS TV HD" tvg-logo="http://images.viaway.com/6260434_640.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TRANS TV HD
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="PT. Cyberindo Aditama",TRANS TV HD
 http://210.210.155.35/qwr9ew/s/s100/01.m3u8
-#EXTINF:0 tvg-name="TRANS TV SD" tvg-logo="http://images.viaway.com/6260434_640.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TRANS TV SD
+#EXTINF:-1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="PT. Cyberindo Aditama",TRANS TV SD
 http://210.210.155.35/qwr9ew/s/s100/02.m3u8
-#EXTINF:0 tvg-name="TVONE HD" tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",TVONE HD
+#EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="PT. Cyberindo Aditama",TVONE HD
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:0 tvg-name="TVONE SD" tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" tvg-id="" group-title="LOKAL" tvg-shift="+0",TVONE SD
+#EXTINF:-1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="PT. Cyberindo Aditama",TVONE SD
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
-#EXTINF:0 tvg-name="TVRI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TVRI
-https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPlaylist.m3u8
-#EXTINF:0 tvg-name="TVRI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",TVRI HD
-https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
-#EXTINF:0 tvg-name="U CHANNEL HD" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",U CHANNEL HD
+#EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="PT. Cyberindo Aditama",U CHANNEL HD
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
-#EXTINF:0 tvg-name="U CHANNEL SD" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",U CHANNEL SD
+#EXTINF:-1 tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="PT. Cyberindo Aditama",U CHANNEL SD
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/aniplus.png" group-title="UseeTV",ID: Aniplus
+https://cdnmdc2.useetv.com/joss/14/aniplus/chunklist_w1537538391_b684100_sleng.m3u8?enc=WH7yni3nYLi8ryHhcO43xQ&exp=1572177610
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" group-title="UseeTV",ID: Waku Waku Japan
+https://cdnmdc1.useetv.com/joss/17/wakuwaku/chunklist_w441183075_b1344100_sleng.m3u8?enc=FXSMua70Wa2av8PG4UZwbA&exp=1572177906
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/flik.png" group-title="UseeTV",ID: Flik
+https://edgejt7.useetv.com/joss/15/flik/chunklist_w2133237528_b1344100_sleng.m3u8?enc=y-CSRNmSwg2QvHSgAo2d0Q&exp=1572177011
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/sbsin.png" group-title="UseeTV",ID: SBS-in
+https://cdnbal1.useetv.com/joss/17/sbsin/chunklist_w1169566762_b1344100_sleng.m3u8?enc=ljaO-fK8Oo13YEaPxcUqQA&exp=1572177317
+#EXTINF:-1 group-title="UseeTV",ID: Discovery Channel
+https://cdnbdsa1.useetv.com/joss/17/disco/chunklist_w1123783221_b1344100_sleng.m3u8?enc=2zDo0mbaaWZrBrj6Va3BdQ&exp=1572178204
+#EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" group-title="UseeTV",ID: National Geographic
+https://cdnmdc1.useetv.com/joss/17/natgeo/chunklist_w1189444151_b1344100_sleng.m3u8?enc=YMrOsLi-bUtRjY1CwZeFbA&exp=1572178202
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="UseeTV",ID: National Geographic People
+https://edgejt6.useetv.com/joss/17/natgeopeople/chunklist_w539268743_b1344100_sleng.m3u8?enc=SMIl0KGQuKaz3X6YPBJcVg&exp=1572178203
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" group-title="UseeTV",ID: National Geographic Wild
+https://cdnkbl2.useetv.com/joss/17/natgeowild/chunklist_w78553196_b1344100_sleng.m3u8?enc=alB_XxIvam3kecsJxyLIzA&exp=1572178204
+#EXTINF:-1 group-title="PT Surfindo Network",HBO HD
+http://203.153.218.28:9981/stream/channelid/37129950?ticket=D2CF909252119A5520B732C9749C429AA5AF244F&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network",HBO FAMILY
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network",HBO HITS
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network", HBO SIGNATURE
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 tvg-logo="Logo N/A" group-title="PT Surfindo Network",ID: Cinemax ID HD
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="PT Surfindo Network",ID: FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network",ID: Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network",HISTORY ID
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=3447A71572697A20883C796D7F6C137B2F95FF0C&profile=pass
+#EXTINF:-1 tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" group-title="PT Surfindo Network",ID: National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" group-title="PT Surfindo Network",ID: National Geographic People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
+#EXTINF:-1 group-title="PT Surfindo Network", National Geographic Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" group-title="RCTI PLUS",GLOBAL TV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hjiDeK/inewslogo.png" group-title="RCTI PLUS",iNews HD
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c9/Logo_MNC.png" group-title="RCTI PLUS",MNCTV HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://infokampus.news/wp-content/uploads/2017/11/Slide1-800x445.jpg" group-title="RCTI PLUS",RCTI HD
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI",TVRI HD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI",TVRI SD
+https://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" group-title="PT. Cemerlang Multimedia",ID: CARTOON NETWORK
+http://203.207.56.228/live/iptv027.m3u8
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png" group-title="PT. Cemerlang Multimedia",ID: Fox Action Movie
+http://203.207.56.228/live/iptv029.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/5/14/4/imgbin-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-7P0BU8dU7FP0zpANeJVDSNLV4.jpg" group-title="PT. Cemerlang Multimedia",ID: FOX Movies
+http://203.207.56.228/live/iptv034.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="PT. Cemerlang Multimedia",ID: HBO
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="PT. Cemerlang Multimedia",ID: HBO Family
+http://203.207.56.228/live/iptv004.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="PT. Cemerlang Multimedia",ID: HBO SIGNATURE
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1 tvg-logo="https://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png" group-title="PT. Cemerlang Multimedia",ID: Nick Asia
+http://203.207.56.228/live/iptv014.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMeg2oO.png" group-title="PT. Cemerlang Multimedia",ID: NICK JUNIOR
+http://203.207.56.228/live/iptv018.m3u8
+#EXTINF:-1 tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" group-title="PT. Cemerlang Multimedia",ID: ANIMAL PLANET
+http://203.207.56.228/live/iptv019.m3u8
