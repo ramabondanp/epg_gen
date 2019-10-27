@@ -14,6 +14,28 @@ http://210.210.155.35/uq2663/h/h19/01.m3u8
 #EXTINF:0 tvg-name="ID: Gem TV Asia SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/86/Sony_GEM_logo.jpg" tvg-id="gemtvasia" group-title="Selected" tvg-shift="+0",ID: Gem TV Asia SD
 http://210.210.155.35/uq2663/h/h19/02.m3u8
 
+########################################## USEE ######################################################
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/aniplus.png" group-title="Usee Premium",ID: Aniplus
+https://cdnmdc2.useetv.com/joss/14/aniplus/chunklist_w1537538391_b684100_sleng.m3u8?enc=WH7yni3nYLi8ryHhcO43xQ&exp=1572177610
+
+#EXTINF:0 tvg-name="ID: Waku Waku Japan HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="wakuwakujapan" group-title="Usee Premium" tvg-shift="+0",ID: Waku Waku Japan
+https://cdnmdc1.useetv.com/joss/17/wakuwaku/chunklist_w441183075_b1344100_sleng.m3u8?enc=FXSMua70Wa2av8PG4UZwbA&exp=1572177906
+
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/flik.png" group-title="Usee Premium",ID: Flik
+https://edgejt7.useetv.com/joss/15/flik/chunklist_w2133237528_b1344100_sleng.m3u8?enc=y-CSRNmSwg2QvHSgAo2d0Q&exp=1572177011
+
+#EXTINF:-1 tvg-logo="https://indiku.me/logo/sbsin.png" group-title="Usee Premium",ID: SBS-in
+https://cdnbal1.useetv.com/joss/17/sbsin/chunklist_w1169566762_b1344100_sleng.m3u8?enc=ljaO-fK8Oo13YEaPxcUqQA&exp=1572177317
+
+#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="Usee Premium",ID: Discovery Channel
+https://cdnbdsa1.useetv.com/joss/17/disco/chunklist_w1123783221_b1344100_sleng.m3u8?enc=2zDo0mbaaWZrBrj6Va3BdQ&exp=1572178204
+#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic
+https://cdnmdc1.useetv.com/joss/17/natgeo/chunklist_w1189444151_b1344100_sleng.m3u8?enc=YMrOsLi-bUtRjY1CwZeFbA&exp=1572178202
+#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic People
+https://edgejt6.useetv.com/joss/17/natgeopeople/chunklist_w539268743_b1344100_sleng.m3u8?enc=SMIl0KGQuKaz3X6YPBJcVg&exp=1572178203
+#EXTINF:0 tvg-name="ID: National Geographic Wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" tvg-id="" group-title="Usee Premium" tvg-shift="+0",ID: National Geographic Wild
+https://cdnkbl2.useetv.com/joss/17/natgeowild/chunklist_w78553196_b1344100_sleng.m3u8?enc=alB_XxIvam3kecsJxyLIzA&exp=1572178204
+
 ########################################## Entertainment ######################################################
 #EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Entertainment" tvg-shift="+0",ID: AXN HD
 http://210.210.155.35/uq2663/h/h141/01.m3u8
@@ -180,52 +202,3 @@ http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 #EXTINF:0 tvg-name="U CHANNEL SD" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" tvg-id="" group-title="LOKAL" tvg-shift="+0",U CHANNEL SD
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
 
-########################################## TRIAL ######################################################
-#EXTINF:0 tvg-name="ID: Waku Waku Japan HD" tvg-logo="https://yt3.ggpht.com/a/AGF-l79IjR9pAJyr2upJzLiHJVpknw8BJRmlMDOZQw=s900-c-k-c0xffffffff-no-rj-mo" tvg-id="wakuwakujapan" group-title="Premium Trial" tvg-shift="+0",ID: Waku Waku Japan
-https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-
-#EXTINF:0 tvg-name="ID: AXN" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: CARTOON NETWORK
-https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="Flik" group-title="Premium Trial" tvg-logo="https://macan.live/img/macan-logo.png",ID: Flik
-https://delivery.macan.live/stream/flik/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="Cinemax by HBO" group-title="Premium Trial" tvg-logo="https://macan.live/img/cinemaxa.png",ID: Cinemax by HBO
-https://delivery.macan.live/stream/cinemax/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: FOX
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: Fox Action Movies" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1330_1.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: Fox Action Movie
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: FOX Movies Premium" tvg-logo="https://cdn.imgbin.com/5/14/4/imgbin-fox-movies-logo-fox-action-movies-television-film-fox-business-news-logo-7P0BU8dU7FP0zpANeJVDSNLV4.jpg" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: Fox Crime" tvg-logo="https://vignette.wikia.nocookie.net/russel/images/d/d6/Fox_Crime_Philippines_Logo_2005.png/revision/latest?cb=20190424011633" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: Fox Crime
-https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: Fox Life" tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2019/02/FOX-LIFE-TURKEY-HD.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: Fox Life
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies" tvg-logo="" group-title="Premium Trial",ID: FOX Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/400px-FX_International_logo.svg.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="HBO Hits" tvg-logo="" group-title="Premium Trial",ID: HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: HBO Family
-https://delivery.macan.live/stream/hbo_family/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: HBO SIGNATURE
-https://delivery.macan.live/stream/hbo_signature/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="Red by HBO" tvg-logo="" group-title="Premium Trial",ID: Red by HBO
-https://delivery.macan.live/stream/redhbo/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-
-#EXTINF:0 tvg-name="ID: ANIMAL PLANET" tvg-logo="https://www.satellitetv-deal.com/images/logos/Animal-Planet-logo.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: ANIMAL PLANET
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:-1 tvg-ID="" tvg-name="Discovery Channel" tvg-logo="" group-title="Premium Trial",ID: Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: History Asia" tvg-logo="http://images.useetv.com/logo_history_big.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: History Asia
-https://delivery.macan.live/stream/history/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: National Geographic" tvg-logo="http://a2.mzstatic.com/us/r1000/021/Purple/d3/81/b8/mzl.kejnvhhp.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: National Geographic
-https://delivery.macan.live/stream/id_ngc/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: National Geographic People" tvg-logo="https://mncvision.id/userfiles/image/channel/NGP_black_150x150px.png" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: National Geographic People
-https://delivery.macan.live/stream/id_netgeopeople/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
-#EXTINF:0 tvg-name="ID: National Geographic Wild" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/01/nat-geo-wild-logo-featured.jpg?w=621&h=383&crop=1" tvg-id="" group-title="Premium Trial" tvg-shift="+0",ID: National Geographic Wild
-https://delivery.macan.live/stream/id_natgeowild/index.m3u8?token=inikodebuatzaltvbukanbuatdireversejadim3uataudibkinpastebinsendiriya
