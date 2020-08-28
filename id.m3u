@@ -1,70 +1,70 @@
 #EXTM3U 
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium ID", Animax HD
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="TV Premium ID", Animax SD
+http://210.210.155.35/dr9445/h/h144/02.m3u8
+#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="TV Premium ID", Aniplus HD
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="TV Premium ID", Aniplus SD
+http://210.210.155.35/dr9445/h/h02/02.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV Premium ID", AXN HD
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV Premium ID", AXN SD
+http://210.210.155.35/uq2663/h/h141/02.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/39.jpg" group-title="TV Premium ID", Blue Ant Entertainment HD
+http://210.210.155.35/dr9445/h/h16/01.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/39.jpg" group-title="TV Premium ID", Blue Ant Entertainment SD
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/44.jpg" group-title="TV Premium ID", Blue Ant Extreme HD
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/44.jpg" group-title="TV Premium ID", Blue Ant Extreme SD
+http://210.210.155.35/dr9445/h/h15/02.m3u8
+#EXTINF: -1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="TV Premium ID", CELESTIAL MOVIES HD
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF: -1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="TV Premium ID", CELESTIAL MOVIES SD
+http://210.210.155.35/qwr9ew/s/s33/02.m3u8
+#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="TV Premium ID", CinemaWorld HD
+http://210.210.155.35/uq2663/h/h04/01.m3u8
+#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="TV Premium ID", CinemaWorld SD
+http://210.210.155.35/uq2663/h/h04/02.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/60.jpg" group-title="TV Premium ID", FIGHT SPORTS HD
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/60.jpg" group-title="TV Premium ID", FIGHT SPORTS SD
 http://210.210.155.35/uq2663/h/h05/02.m3u8
+#EXTINF: -1 tvg-id="gemtvasia" tvg-logo="http://dens.tv/images/channel-logo/5.jpg" group-title="TV Premium ID", Gem TV Asia HD
+http://210.210.155.35/uq2663/h/h19/01.m3u8
+#EXTINF: -1 tvg-id="gemtvasia" tvg-logo="http://dens.tv/images/channel-logo/5.jpg" group-title="TV Premium ID", Gem TV Asia SD
+http://210.210.155.35/uq2663/h/h19/02.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/101.jpg" group-title="TV Premium ID", HITS HD
 http://210.210.155.35/uq2663/h/h37/01.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/101.jpg" group-title="TV Premium ID", HITS SD
 http://210.210.155.35/uq2663/h/h37/02.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium ID", ID: Animax HD
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="TV Premium ID", ID: Animax SD
-http://210.210.155.35/dr9445/h/h144/02.m3u8
-#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="TV Premium ID", ID: Aniplus HD
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="TV Premium ID", ID: Aniplus SD
-http://210.210.155.35/dr9445/h/h02/02.m3u8
-#EXTINF: -1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV Premium ID", ID: AXN HD
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF: -1 tvg-logo="https://seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="TV Premium ID", ID: AXN SD
-http://210.210.155.35/uq2663/h/h141/02.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/39.jpg" group-title="TV Premium ID", ID: Blue Ant Entertainment HD
-http://210.210.155.35/dr9445/h/h16/01.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/39.jpg" group-title="TV Premium ID", ID: Blue Ant Entertainment SD
-http://210.210.155.35/dr9445/h/h16/02.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/44.jpg" group-title="TV Premium ID", ID: Blue Ant Extreme HD
-http://210.210.155.35/dr9445/h/h15/01.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/44.jpg" group-title="TV Premium ID", ID: Blue Ant Extreme SD
-http://210.210.155.35/dr9445/h/h15/02.m3u8
-#EXTINF: -1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="TV Premium ID", ID: CELESTIAL MOVIES HD
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-#EXTINF: -1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="TV Premium ID", ID: CELESTIAL MOVIES SD
-http://210.210.155.35/qwr9ew/s/s33/02.m3u8
-#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="TV Premium ID", ID: CinemaWorld HD
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF: -1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/cinema-world-lg.jpg" group-title="TV Premium ID", ID: CinemaWorld SD
-http://210.210.155.35/uq2663/h/h04/02.m3u8
-#EXTINF: -1 tvg-id="gemtvasia" tvg-logo="http://dens.tv/images/channel-logo/5.jpg" group-title="TV Premium ID", ID: Gem TV Asia HD
-http://210.210.155.35/uq2663/h/h19/01.m3u8
-#EXTINF: -1 tvg-id="gemtvasia" tvg-logo="http://dens.tv/images/channel-logo/5.jpg" group-title="TV Premium ID", ID: Gem TV Asia SD
-http://210.210.155.35/uq2663/h/h19/02.m3u8
-#EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="TV Premium ID", ID: K+ HD
+#EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="TV Premium ID", K+ HD
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="TV Premium ID", ID: K+ SD
+#EXTINF: -1 tvg-logo="https://s.republika.co.id/uploads/images/inpicture_slide/k-di-k-vision-_140915173551-415.jpg" group-title="TV Premium ID", K+ SD
 http://210.210.155.35/uq2663/h/h08/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="TV Premium ID", ID: KiX HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="TV Premium ID", KiX HD
 http://210.210.155.35/uq2663/h/h07/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="TV Premium ID", ID: KiX SD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KMPI8qI.png" group-title="TV Premium ID", KiX SD
 http://210.210.155.35/uq2663/h/h07/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/gsBmKtz.png" group-title="TV Premium ID", ID: MY KIDS
-http://210.210.155.35/x6bnqe/s/s113/index.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/89.jpg" group-title="TV Premium ID", ID: Sony One HD
-http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/89.jpg" group-title="TV Premium ID", ID: Sony One SD
-http://210.210.155.35/uq2663/h/h143/02.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="TV Premium ID", ID: Thrill HD
-http://210.210.155.35/qwr9ew/s/s34/01.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="TV Premium ID", ID: Thrill SD
-http://210.210.155.35/qwr9ew/s/s34/02.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", ID: Zee Bioskop HD
-http://210.210.155.35/qwr9ew/s/s32/01.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", ID: Zee Bioskop SD
-http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/95.jpg" group-title="TV Premium ID", My Cinema HD
 http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/95.jpg" group-title="TV Premium ID", My Cinema SD
 http://210.210.155.35/uq2663/h/h90/S1/mnf.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gsBmKtz.png" group-title="TV Premium ID", MY KIDS
+http://210.210.155.35/x6bnqe/s/s113/index.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/89.jpg" group-title="TV Premium ID", Sony One HD
+http://210.210.155.35/uq2663/h/h143/01.m3u8
+#EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/89.jpg" group-title="TV Premium ID", Sony One SD
+http://210.210.155.35/uq2663/h/h143/02.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="TV Premium ID", Thrill HD
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="TV Premium ID", Thrill SD
+http://210.210.155.35/qwr9ew/s/s34/02.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", Zee Bioskop HD
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", Zee Bioskop SD
+http://210.210.155.35/qwr9ew/s/s32/02.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV HD
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV SD
