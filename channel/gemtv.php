@@ -18,6 +18,8 @@ foreach ($arr as $key => $element) {
         $meta = $element->find('.meta', 0)->plaintext;
         $epnum = preg_match_all("/\d+/", $meta, $epnumArr);
         $synopsis = $element->find('.synopsis', 0)->plaintext;
+        $metasyn = $meta . ' | ' . trim($synopsis);
+        $desc=preg_replace('/&(?!#?[a-z0-9]+;)/', '&amp;', $metasyn);
         echo '<programme start="' . $dateStart . $clockStart . ' +0700" stop="' . $dateStop . $clockStop . ' +0700" channel="gemtvasia">' . PHP_EOL;
         echo '<title>' . trim($name) . '</title>' . PHP_EOL;
         if (isset($epnumArr[0][1])) {
@@ -25,7 +27,7 @@ foreach ($arr as $key => $element) {
         }else{
             echo '<episode-num system="xmltv_ns">0.' . ($epnumArr[0][0] - 1) . '</episode-num>' . PHP_EOL;
         };
-        echo '<desc>' . $meta . ' | ' . trim($synopsis) . '</desc>' . PHP_EOL;
+        echo '<desc>' . $desc . '</desc>' . PHP_EOL;
         echo '</programme>' . PHP_EOL;
     };
 };
