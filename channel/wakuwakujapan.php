@@ -4,7 +4,7 @@ echo '<display-name>Waku Waku Japan</display-name>' . PHP_EOL;
 echo '<icon src="https://www.wakuwakujapan.com/fileadmin/res/ogp.png" />' . PHP_EOL;
 echo '<url>https://www.wakuwakujapan.com</url>' . PHP_EOL;
 echo '</channel>' . PHP_EOL;
-$json = file_get_contents('https://www.wakuwakujapan.com/json/tz0700/');
+$json = file_get_contents('https://www.wakuwakujapan.com/json/en/tz0700/');
 $content = json_decode($json, true);
 foreach ($content as $key => $value) {
         $name = $value["title_en"];
