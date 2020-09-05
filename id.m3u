@@ -1,4 +1,12 @@
 #EXTM3U url-tvg="https://genom-project.000webhostapp.com/epg.xml" tvg-url="https://genom-project.000webhostapp.com/epg.xml" x-tvg-url="https://genom-project.000webhostapp.com/epg.xml"
+
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium Uji", Animax HD
+https://tv.wajabae.com/uji/animax.m3u8
+#EXTINF: -1 tvg-id="aniplus" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" group-title="TV Premium Uji", Aniplus HD
+https://tv.wajabae.com/uji/aniplus.m3u8
+#EXTINF: -1 tvg-id="wakuwakujapan" tvg-logo="https://pbs.twimg.com/profile_images/437063716400418816/TJgYjZHT_400x400.png" group-title="TV Premium Uji", WakuWaku Japan
+https://chama.ml/channelgratisan-WAKU2JAPAN
+
 #EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium ID", Animax HD
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF: -1 tvg-id="animax" tvg-logo="https://www.animaxtv.com/images/logo_animax.png" group-title="TV Premium ID", Animax SD
@@ -65,6 +73,9 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", Zee Bioskop SD
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TV Premium ID", National Geographic
+http://210.210.155.35/dr9445/h/h02/02.m3u8
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV HD
 http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV SD
