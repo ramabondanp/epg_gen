@@ -1,13 +1,43 @@
 #EXTM3U url-tvg="https://genom-project.000webhostapp.com/epg.php" tvg-url="https://genom-project.000webhostapp.com/epg.php" x-tvg-url="https://genom-project.000webhostapp.com/epg.php"
 
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium JP Uji", Animax SD
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium Uji", Animax SD
 http://103.47.132.164:80/PLTV/88888888/224/3221227145/1.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium JP Uji", Animax HD
+#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium Uji", Animax HD
 http://103.47.132.164:80/PLTV/88888888/224/3221227145/2.m3u8
-#EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium JP Uji", Animax FHD
-http://103.47.132.164:80/PLTV/88888888/224/3221227145/3.m3u8
-#EXTINF: -1 tvg-id="wakuwakujapan" tvg-logo="https://pbs.twimg.com/profile_images/437063716400418816/TJgYjZHT_400x400.png" group-title="TV Premium JP Uji", WakuWaku Japan
+#EXTINF: -1 tvg-id="wakuwakujapan" tvg-logo="https://pbs.twimg.com/profile_images/437063716400418816/TJgYjZHT_400x400.png" group-title="TV Premium Uji", WakuWaku Japan
 https://chama.ml/channelgratisan-WAKU2JAPAN
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TV Premium Uji", National Geographic SD
+http://103.47.132.165:80/PLTV/88888888/224/3221227177/1.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TV Premium Uji", National Geographic HD
+http://103.47.132.165:80/PLTV/88888888/224/3221227177/2.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",FOX MOVIES SD
+http://103.47.132.164/PLTV/88888888/224/3221227137/1.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",FOX MOVIES HD
+http://103.47.132.164/PLTV/88888888/224/3221227137/2.m3u8
+#EXTINF: -1 ctvg-logo="" group-title="TV Premium Uji",FOX LIFE SD
+http://103.47.132.164/PLTV/88888888/224/3221227277/1.m3u8
+#EXTINF: -1 ctvg-logo="" group-title="TV Premium Uji",FOX LIFE HD
+http://103.47.132.164/PLTV/88888888/224/3221227277/2.m3u8
+#EXTINF: -1 ctvg-logo="" group-title="TV Premium Uji",FOX FAMILY MOVIES SD
+http://103.47.132.164:80/PLTV/88888888/224/3221227117/1.m3u8
+#EXTINF: -1 ctvg-logo="" group-title="TV Premium Uji",FOX FAMILY MOVIES HD
+http://103.47.132.164:80/PLTV/88888888/224/3221227117/2.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",FOX MOVIES PREMIUM SD
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/2.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",FOX MOVIES PREMIUM FHD
+http://103.47.132.165:80/PLTV/88888888/224/3221227119/3.m3u8 HD
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",KTV
+http://103.47.132.164/PLTV/88888888/224/3221227231/2.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",HITS
+http://103.47.132.164/PLTV/88888888/224/3221227331/3.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",DISCOVERY CHANNEL SD
+http://103.47.132.165:80/PLTV/88888888/224/3221227169/1.m3u8
+#EXTINF: -1 tvg-logo="" group-title="TV Premium Uji",DISCOVERY CHANNEL HD
+http://103.47.132.165:80/PLTV/88888888/224/3221227169/2.m3u8
+#EXTINF: -1  tvg-logo="" group-title="TV Premium Uji",DISCOVERY ASIA SD
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/1.m3u8
+#EXTINF: -1  tvg-logo="" group-title="TV Premium Uji",DISCOVERY ASIA HD
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/2.m3u8
 
 #EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium ID", Animax HD
 http://210.210.155.35/dr9445/h/h144/01.m3u8
@@ -75,13 +105,11 @@ http://210.210.155.35/qwr9ew/s/s34/02.m3u8
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="TV Premium ID", Zee Bioskop SD
 http://210.210.155.35/qwr9ew/s/s32/02.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="TV Premium ID", National Geographic
-https://tv.wajabae.com/uji/natgeo.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV HD
-http://210.210.155.35/qwr9ew/s/s102/01.m3u8
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/1200px-Antv_logo_%282017%29.svg.png" group-title="TV Indonesia", ANTV SD
-http://210.210.155.35/qwr9ew/s/s102/02.m3u8
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/80.jpg" group-title="TV Indonesia", Berita Satu
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF: -1 tvg-logo="http://dens.tv/images/channel-logo/80.jpg" group-title="TV Indonesia", DAAI TV HD
@@ -127,9 +155,9 @@ http://210.210.155.35/qwr9ew/s/s101/01.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-ulNlxK0wFBk/W-w-oe-qFjI/AAAAAAAAP_Q/56GGcs-cBUsCj3qfFbMcG2agUpDTV8KBgCLcBGAs/s320/Trans%2B7.png" group-title="TV Indonesia", TRANS 7 SD
 http://210.210.155.35/qwr9ew/s/s101/02.m3u8
 #EXTINF: -1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="TV Indonesia", TRANS TV HD
-http://210.210.155.35/qwr9ew/s/s100/01.m3u8
+http://210.210.155.35/x6bnqe/s/s252/01.m3u8
 #EXTINF: -1 tvg-logo="http://images.viaway.com/6260434_640.png" group-title="TV Indonesia", TRANS TV SD
-http://210.210.155.35/qwr9ew/s/s100/02.m3u8
+http://210.210.155.35/x6bnqe/s/s252/02.m3u8
 #EXTINF: -1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="TV Indonesia", TVONE HD
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 #EXTINF: -1 tvg-logo="https://indowarta.com/hiburan/wp-content/uploads/2017/04/TVOne-.jpg" group-title="TV Indonesia", TVONE SD
