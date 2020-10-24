@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://genom-project.my.id/epg_gen/index.php" tvg-url="https://genom-project.my.id/epg_gen/index.php" x-tvg-url="https://genom-project.my.id/epg_gen/index.php"
+#EXTM3U url-tvg="http://genom.my.eu.org/epg.php" tvg-url="http://genom.my.eu.org/epg.php" x-tvg-url="http://genom.my.eu.org/epg.php"
 
 #EXTINF: -1 tvg-id="animax" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" group-title="TV Premium ID", Animax HD
 http://210.210.155.35/dr9445/h/h144/01.m3u8
